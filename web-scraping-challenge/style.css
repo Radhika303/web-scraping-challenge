@@ -1,0 +1,20 @@
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  tr:hover {background-color: #54b6c7;}
+
+  th {
+    background-color:white;
+    color: rgb(24, 100, 100);
+  }
+
+  h4 {
+    color:rgb(105, 103, 206);
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
